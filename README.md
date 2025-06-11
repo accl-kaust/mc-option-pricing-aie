@@ -21,7 +21,7 @@ M. Bouaziz, M. Samet, and S. A. Fahmy, "A Dataflow Overlay for Monte Carlo Multi
 
 
 ```
-@INPROCEEDINGS{PRNGine,
+@INPROCEEDINGS{MAOPMC,
   author={Bouaziz, Mohamed and Samet, Michael and Fahmy, Suhaib A.},
   booktitle={ISC High Performance 2025 Research Paper Proceedings (ISC)}, 
   title={A Dataflow Overlay for Monte Carlo Multi-Asset Option Pricing on AMD Versal AI Engines}, 
